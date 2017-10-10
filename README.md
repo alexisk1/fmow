@@ -1,2 +1,2 @@
 # fmow
-General fumctions used for FMOW challenge
+Scripts used for FMOW challenge
