@@ -1,0 +1,5 @@
+test = 24.253228914 GB
+
+train = 125 ++ GB
+
+train_clases =62
