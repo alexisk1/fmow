@@ -1,3 +1,6 @@
 [submodule "lib/models"]
 	path = lib/models
 	url = https://github.com/tensorflow/models
+[submodule "lib/keras-resnet"]
+	path = lib/keras-resnet
+	url = https://github.com/raghakot/keras-resnet
