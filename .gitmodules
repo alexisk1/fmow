@@ -4,3 +4,6 @@
 [submodule "lib/keras-resnet"]
 	path = lib/keras-resnet
 	url = https://github.com/raghakot/keras-resnet
+[submodule "lib/frcnn"]
+	path = lib/frcnn
+	url = https://github.com/yhenon/keras-frcnn
